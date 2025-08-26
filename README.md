@@ -21,9 +21,12 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Hydroto](https://ytcards.demolab.com/?id=dLJEOtatfsk&title=Hydroto&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hydroto")](https://www.youtube.com/watch?v=dLJEOtatfsk)
-[![Yogatiet](https://ytcards.demolab.com/?id=vIEnaIr5060&title=Yogatiet&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yogatiet")](https://www.youtube.com/watch?v=vIEnaIr5060)
+[![Hydroto](https://ytcards.demolab.com/?id=dLJEOtatfsk&title=Hydroto&lang=en&background_color=%230d1117&title_color=%23ffffff&max_title_lines=1&width=250&border_radius=5 "Hydroto")](https://www.youtube.com/watch?v=dLJEOtatfsk)
+[![Yogatiet](https://ytcards.demolab.com/?id=vIEnaIr5060&title=Yogatiet&lang=en&background_color=%230d1117&title_color=%23ffffff&max_title_lines=1&width=250&border_radius=5 "Yogatiet")](https://www.youtube.com/watch?v=vIEnaIr5060)
 <!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UC_your_channel_id_here?sub_confirmation=1)
+
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UC_your_channel_id_here?sub_confirmation=1)
 
