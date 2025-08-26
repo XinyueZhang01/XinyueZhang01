@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Xinyue Zhang (Alina) 👋
 
 ![Profile Badge](https://img.shields.io/badge/Imperial%20College%20London-2022--2026-blue)
