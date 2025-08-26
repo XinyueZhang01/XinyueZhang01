@@ -16,3 +16,4 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCdSfNenQ3wwuwQjQ3p8LWSA
+          stats_color: "#000000"
