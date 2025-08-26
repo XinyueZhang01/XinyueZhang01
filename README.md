@@ -45,8 +45,6 @@
 ### Project Videos 
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Hydroto](https://ytcards.demolab.com/?id=dLJEOtatfsk&title=Hydroto&lang=en&background_color=%230d1117&title_color=%23ffffff&max_title_lines=1&width=250&border_radius=5 "Hydroto")](https://www.youtube.com/watch?v=dLJEOtatfsk)
-[![Yogatiet](https://ytcards.demolab.com/?id=vIEnaIr5060&title=Yogatiet&lang=en&background_color=%230d1117&title_color=%23ffffff&max_title_lines=1&width=250&border_radius=5 "Yogatiet")](https://www.youtube.com/watch?v=vIEnaIr5060)
 <!-- END YOUTUBE-CARDS -->
 
 ##  How to Explore My Work
