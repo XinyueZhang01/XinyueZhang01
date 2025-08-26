@@ -1,7 +1,7 @@
 # Hi there, I'm Xinyue Zhang (Alina) 👋
 
-![Profile Badge](https://img.shields.io/badge/Imperial%20College%20London-2022--2026-blue)
-![Location Badge](https://img.shields.io/badge/Location-London%2C%20UK-orange)
+<img src="https://img.icons8.com/color/28/graduate.png"/> Imperial College London (2022–2026)  
+<img src="https://img.icons8.com/color/28/marker.png"/> London, UK  
 
 🎓 MEng Design Engineering @ Imperial College London (Dean’s List, First Class Honours)  
 🔬 Interdisciplinary researcher passionate about **UX design, robotics, AI, and acoustics**.  
