@@ -3,9 +3,9 @@
 ![Profile Badge](https://img.shields.io/badge/Imperial%20College%20London-2022--2026-blue)
 ![Location Badge](https://img.shields.io/badge/Location-London%2C%20UK-orange)
 
-I'm a designer and engineer passionate about merging creativity with technology—especially in the realms of acoustics, robotics, and sustainability. My work explores innovative ways to solve real-world challenges with interdisciplinary approaches.
-
----
+🎓 MEng Design Engineering @ Imperial College London (Dean’s List, First Class Honours)  
+🔬 Interdisciplinary researcher passionate about **UX design, robotics, AI, and acoustics**.  
+💡 I explore how **design, data, and simulation** can improve **trust, usability, and inclusivity** in technology.  
 
 ##  Featured Projects
 
@@ -27,18 +27,15 @@ I'm a designer and engineer passionate about merging creativity with technology�
 - **Predicting-the-Presence-of-Heart-Disease-based-on-Health-Conditions**  
   Collaborated on a data science project to compare machine learning model performances in predicting heart disease using Jupyter notebooks.
 
----
 
 ## ​ Tech & Tools
 
-| Category                  | Tools & Technologies                               |
-|---------------------------|----------------------------------------------------|
-| Simulation & Engineering | ROS, COMSOL Multiphysics, GROMACS, LAMMPS, VMD     |
-| Programming Languages     | Python, C++, Jupyter Notebooks                     |
-| Platforms & Frameworks    | ROS (Robot Operating System), Bela platform        |
-| Disciplines               | Acoustics, Robotics, Biodesign, Data Science       |
-
----
+## 🛠 Skills
+**Programming & ML:** Python (pandas, TensorFlow, PyTorch, scikit-learn), MATLAB, C++, JavaScript  
+**Design & UX:** Figma, Adobe Suite, Service Design, Prototyping  
+**Simulation & Analysis:** ROS, COMSOL, Ansys, LAMMPS, GROMACS, VMD  
+**3D CAD & Fabrication:** SolidWorks, Fusion360, AutoCAD, 3D Printing  
+**Languages:** English (fluent), Mandarin (fluent)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -59,8 +56,5 @@ To dive deeper into my projects and code:
 2. Each project includes code, simulations, data visualizations, and (where applicable) README documentation.
 3. Feel free to fork projects, raise issues, or reach out with feedback or collaboration ideas!
 
----
-
-*Made with 💡 and code.*
 
 
